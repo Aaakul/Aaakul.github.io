@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://aaakul.github.io/anki-mentor/static/css/main.e9cef33d.css",
-    "main.js": "https://aaakul.github.io/anki-mentor/static/js/main.36d6f04b.js",
+    "main.js": "https://aaakul.github.io/anki-mentor/static/js/main.3d140443.js",
     "static/js/453.6b217b6c.chunk.js": "https://aaakul.github.io/anki-mentor/static/js/453.6b217b6c.chunk.js",
     "index.html": "https://aaakul.github.io/anki-mentor/index.html",
     "main.e9cef33d.css.map": "https://aaakul.github.io/anki-mentor/static/css/main.e9cef33d.css.map",
-    "main.36d6f04b.js.map": "https://aaakul.github.io/anki-mentor/static/js/main.36d6f04b.js.map",
+    "main.3d140443.js.map": "https://aaakul.github.io/anki-mentor/static/js/main.3d140443.js.map",
     "453.6b217b6c.chunk.js.map": "https://aaakul.github.io/anki-mentor/static/js/453.6b217b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9cef33d.css",
-    "static/js/main.36d6f04b.js"
+    "static/js/main.3d140443.js"
   ]
 }
