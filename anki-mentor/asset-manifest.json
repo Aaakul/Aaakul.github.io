@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/anki-mentor/static/css/main.e9cef33d.css",
-    "main.js": "/anki-mentor/static/js/main.ed87b967.js",
+    "main.js": "/anki-mentor/static/js/main.12819597.js",
     "static/js/453.6b217b6c.chunk.js": "/anki-mentor/static/js/453.6b217b6c.chunk.js",
     "index.html": "/anki-mentor/index.html",
     "main.e9cef33d.css.map": "/anki-mentor/static/css/main.e9cef33d.css.map",
-    "main.ed87b967.js.map": "/anki-mentor/static/js/main.ed87b967.js.map",
+    "main.12819597.js.map": "/anki-mentor/static/js/main.12819597.js.map",
     "453.6b217b6c.chunk.js.map": "/anki-mentor/static/js/453.6b217b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9cef33d.css",
-    "static/js/main.ed87b967.js"
+    "static/js/main.12819597.js"
   ]
 }
