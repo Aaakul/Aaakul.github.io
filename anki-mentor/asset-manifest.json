@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ankimentor/static/css/main.a813d57a.css",
-    "main.js": "/ankimentor/static/js/main.39ea5589.js",
-    "static/js/453.6b217b6c.chunk.js": "/ankimentor/static/js/453.6b217b6c.chunk.js",
-    "index.html": "/ankimentor/index.html",
-    "main.a813d57a.css.map": "/ankimentor/static/css/main.a813d57a.css.map",
-    "main.39ea5589.js.map": "/ankimentor/static/js/main.39ea5589.js.map",
-    "453.6b217b6c.chunk.js.map": "/ankimentor/static/js/453.6b217b6c.chunk.js.map"
+    "main.css": "/anki-mentor/static/css/main.e9cef33d.css",
+    "main.js": "/anki-mentor/static/js/main.16af0d36.js",
+    "static/js/453.6b217b6c.chunk.js": "/anki-mentor/static/js/453.6b217b6c.chunk.js",
+    "index.html": "/anki-mentor/index.html",
+    "main.e9cef33d.css.map": "/anki-mentor/static/css/main.e9cef33d.css.map",
+    "main.16af0d36.js.map": "/anki-mentor/static/js/main.16af0d36.js.map",
+    "453.6b217b6c.chunk.js.map": "/anki-mentor/static/js/453.6b217b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a813d57a.css",
-    "static/js/main.39ea5589.js"
+    "static/css/main.e9cef33d.css",
+    "static/js/main.16af0d36.js"
   ]
 }
