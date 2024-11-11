@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.62bd7ddf.css",
-    "main.js": "/static/js/main.00ff76a6.js",
-    "static/js/453.0bb31bc5.chunk.js": "/static/js/453.0bb31bc5.chunk.js",
-    "index.html": "/index.html",
-    "main.62bd7ddf.css.map": "/static/css/main.62bd7ddf.css.map",
-    "main.00ff76a6.js.map": "/static/js/main.00ff76a6.js.map",
-    "453.0bb31bc5.chunk.js.map": "/static/js/453.0bb31bc5.chunk.js.map"
+    "main.css": "/option-tech-charts/static/css/main.62bd7ddf.css",
+    "main.js": "/option-tech-charts/static/js/main.b01b7a84.js",
+    "static/js/453.0bb31bc5.chunk.js": "/option-tech-charts/static/js/453.0bb31bc5.chunk.js",
+    "index.html": "/option-tech-charts/index.html",
+    "main.62bd7ddf.css.map": "/option-tech-charts/static/css/main.62bd7ddf.css.map",
+    "main.b01b7a84.js.map": "/option-tech-charts/static/js/main.b01b7a84.js.map",
+    "453.0bb31bc5.chunk.js.map": "/option-tech-charts/static/js/453.0bb31bc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62bd7ddf.css",
-    "static/js/main.00ff76a6.js"
+    "static/js/main.b01b7a84.js"
   ]
 }
