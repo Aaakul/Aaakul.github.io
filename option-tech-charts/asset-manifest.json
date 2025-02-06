@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/option-tech-charts/static/css/main.41621eb0.css",
-    "main.js": "/option-tech-charts/static/js/main.4562c402.js",
+    "main.css": "/option-tech-charts/static/css/main.8f7fd895.css",
+    "main.js": "/option-tech-charts/static/js/main.07cfb009.js",
     "static/js/453.0bb31bc5.chunk.js": "/option-tech-charts/static/js/453.0bb31bc5.chunk.js",
     "index.html": "/option-tech-charts/index.html",
-    "main.41621eb0.css.map": "/option-tech-charts/static/css/main.41621eb0.css.map",
-    "main.4562c402.js.map": "/option-tech-charts/static/js/main.4562c402.js.map",
+    "main.8f7fd895.css.map": "/option-tech-charts/static/css/main.8f7fd895.css.map",
+    "main.07cfb009.js.map": "/option-tech-charts/static/js/main.07cfb009.js.map",
     "453.0bb31bc5.chunk.js.map": "/option-tech-charts/static/js/453.0bb31bc5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41621eb0.css",
-    "static/js/main.4562c402.js"
+    "static/css/main.8f7fd895.css",
+    "static/js/main.07cfb009.js"
   ]
 }
